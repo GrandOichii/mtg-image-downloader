@@ -6,8 +6,8 @@ github.com/GrandOichii/box v0.0.0-20220203103332-865d3af98c3f h1:7lvTDKlqBY4tSki
 github.com/GrandOichii/box v0.0.0-20220203103332-865d3af98c3f/go.mod h1:GuKNCJwETvgNqSVhqdF+xNFk9d+r8ajSI0xwSXcb2eo=
 github.com/GrandOichii/colorwrapper v0.0.0-20220203103117-b874d1231741 h1:rQsgfJoKGEPJRieEvDBwbgpbw/ayS1ODgVP9Nl/MU34=
 github.com/GrandOichii/colorwrapper v0.0.0-20220203103117-b874d1231741/go.mod h1:R7XI7EFzH/o+1p/Ox8urFug0bj3MsKse1fpWhRITjto=
-github.com/GrandOichii/mtgsdk v1.0.1 h1:tTkBjmbKsQpD2OY+rtJslvIqSA+c8L6fYeZzY/THNf8=
-github.com/GrandOichii/mtgsdk v1.0.1/go.mod h1:6Eoz0TTj5JHzvjBzAGQPi90sME0/gkq3JNlIitncBsg=
+github.com/GrandOichii/mtgsdk v1.0.2 h1:ncdijNi6TOHkiTK2SqcMqOJmyo2AQ5byqz/kUmfAMxU=
+github.com/GrandOichii/mtgsdk v1.0.2/go.mod h1:6Eoz0TTj5JHzvjBzAGQPi90sME0/gkq3JNlIitncBsg=
 github.com/fatih/color v1.13.0 h1:8LOYc1KYPPmyKMuN8QV2DNRWNbLo6LZ0iLs8+mlH53w=
 github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
 github.com/mattn/go-colorable v0.1.9/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
