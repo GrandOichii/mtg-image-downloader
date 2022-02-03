@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/GrandOichii/argsparser v0.0.0-20220203103953-ec71d60312af
-	github.com/GrandOichii/mtgsdk v0.0.0-20220203112257-483347175de8
+	github.com/GrandOichii/mtgsdk v1.0.1
 )
 
 require (
